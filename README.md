@@ -4,10 +4,10 @@ Utility to convert between various proxy subscription formats.
 
 original git: https://github.com/hfboys/subconverter
 
-[![Build Status](https://github.com/hfboys3/subconverter/actions/workflows/docker.yml/badge.svg)](https://github.com/hfboys3/subconverter/actions)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/hfboys3/subconverter.svg)](https://github.com/hfboys/subconverter/tags)
-[![GitHub release](https://img.shields.io/github/release/hfboys3/subconverter.svg)](https://github.com/hfboys3/subconverter/releases)
-[![GitHub license](https://img.shields.io/github/license/hfboys3/subconverter.svg)](https://github.com/tindy2013/subconverter/blob/master/LICENSE)
+[![Build Status](https://github.com/hfboys/subconverter/actions/workflows/docker.yml/badge.svg)](https://github.com/hfboys/subconverter/actions)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/hfboys/subconverter.svg)](https://github.com/hfboys/subconverter/tags)
+[![GitHub release](https://img.shields.io/github/release/hfboys/subconverter.svg)](https://github.com/hfboys/subconverter/releases)
+[![GitHub license](https://img.shields.io/github/license/hfboys/subconverter.svg)](https://github.com/tindy2013/subconverter/blob/master/LICENSE)
 
 [Docker README](https://github.com/hfboys/subconverter/blob/master/README-docker.md)
 
